@@ -5,8 +5,8 @@
 
 * Objetivos do curso
 
-** Conhecer a linguagem Java.
+1. Conhecer a linguagem Java.
 
-** Conhecer os pilares do paradigma de Orientacao a Objetos.
+2. Conhecer os pilares do paradigma de Orientacao a Objetos.
 
-** Conhecer os principais fundamentos de programacao.
+3. Conhecer os principais fundamentos de programacao.
